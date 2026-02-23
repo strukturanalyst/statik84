@@ -1,0 +1,9 @@
+# Component 84 — Structural Parity Primitive
+
+- Zero Dependency
+- Deterministic Output
+- Semantic‑Agnostic
+- Language‑Agnostic
+- Stable Under Translation
+- Stable Under Rewriting
+- Drift‑Detecting
