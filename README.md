@@ -111,3 +111,37 @@ Plattform (Closed‑Core)
 
     Kubernetes (optional, später)
 
+
+
+🔒 Trust‑Siegel (Platzhalter)
+
+Statik84 erhält ab Version v1.0 ein eigenes Vertrauenssignal:
+Deterministic Logic Verified — Placeholder
+
+Dieses Siegel bestätigt:
+
+    Die Engine arbeitet vollständig deterministisch
+
+    Ergebnisse sind reproduzierbar
+
+    Die Fehlerlogik ist klar definiert
+
+    Die Struktur‑Erkennung folgt festen Regeln
+
+    Keine Heuristik, keine Wahrscheinlichkeiten, keine Hidden Layers
+
+Prüfkriterien (Platzhalter)
+
+    Konsistenztest
+
+    Reproduzierbarkeitstest
+
+    Struktur‑Integritätstest
+
+    Fehlerlogik‑Test
+
+    Boundary‑Test
+
+Badge (Platzhalter)
+
+Wird mit v1.0 als GitHub‑Badge ergänzt.
