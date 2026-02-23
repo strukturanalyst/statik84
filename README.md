@@ -62,3 +62,52 @@ Die Engine (Closed Core) ist nicht Teil dieses Repositories.
 
 Für Integrationen, Audit‑Pipelines oder High‑Speed‑Engines:  
 **Allan Young — Strukturanalyst**
+
+
+
+
+
+Tech Stack — Statik84 Architektur
+Engine (Open‑Core, rein)
+
+    Python 3.x
+
+    Keine externen Libraries (nur Standard‑Library)
+
+    Deterministische Ausführung
+
+    Reine Regelmaschine
+
+Adapter‑Layer (schmutzig, austauschbar)
+
+    JSON / CSV / Text‑Parser
+
+    Optional:
+
+        FastAPI (API‑Adapter)
+
+        Pandas (Tabellen‑Adapter)
+
+Derivate (GUI / Business‑Apps)
+
+    SvelteKit
+
+    Next.js
+
+    Flutter
+
+    React Native
+
+(Derivate sind austauschbar. Die Engine bleibt konstant.)
+Plattform (Closed‑Core)
+
+    Python Backend
+
+    PostgreSQL
+
+    Redis
+
+    Docker
+
+    Kubernetes (optional, später)
+
