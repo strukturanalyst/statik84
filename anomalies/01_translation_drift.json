@@ -1,0 +1,5 @@
+{
+  "a": "Der Vertrag beginnt am 1. Januar.",
+  "b": "The agreement will commence on January 1st, pending approval.",
+  "expected": "semantic drift"
+}
